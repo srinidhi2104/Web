@@ -8,7 +8,7 @@ const siteConfig = {
   personal: {
     name: 'Srinidhi Susarla',
     title: 'Christ University Bsc Economics with Data science Student',
-    image: getAsset('images/srinidhii.jpeg'), // Customize or replace with your profile image
+    image: string='https://github.com/srinidhi2104/Web/blob/main/public/images/srinidhii.jpeg', // Customize or replace with your profile image
     description:
       'I am a B.Sc. Economics with Data Science student at Christ University, building a strong foundation in economics, statistics, and analytical tools. Currently exploring projects/ internships in data analysis and visualization.\n' +
       '\n' +
