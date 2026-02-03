@@ -7,7 +7,7 @@ export const getAsset = (path: string) => {
 const siteConfig = {
   personal: {
     name: 'Sri Nidhi',
-    title: 'Student | Your Role',
+    title: 'STUDENT STUDENT',
     image: getAsset('images/photo.png'), // Customize or replace with your profile image
     description:
       'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
