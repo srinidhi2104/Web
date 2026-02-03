@@ -6,19 +6,19 @@ export const getAsset = (path: string) => {
 
 const siteConfig = {
   personal: {
-    name: 'Sri Nidhi',
-    title: 'Christ University Bsc Eco And Data cience Student',
+    name: 'Srinidhi Susarla',
+    title: 'Christ University Bsc Economics with Data science Student',
     image: getAsset('images/photo.png'), // Customize or replace with your profile image
     description:
-      'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
+      'I am a B.Sc. Economics with Data Science student at Christ University, building a strong foundation in economics, statistics, and analytical tools. Currently exploring projects/ internships in data analysis and visualization.\n' +
       '\n' +
-      'Mention your institution or company, areas of interest, and what you teach or build.\n' +
+      'Christ University bannerghatta road campus, AREA OF INTERESTS: canva, storytelling, data vizualization.\n' +
       '\n' +
       'Summarize your education or certifications briefly and highlight your practical work.\n' +
       '\n' +
       'Optional: Add notable books, workshops, or training you deliver.',
-    tagline: 'Add a concise personal tagline here.',
-    location: 'Your City, Country',
+    tagline: 'How do resources, data and humans connect?.',
+    location: 'Bengaluru, India',
   },
 
   seo: {
@@ -148,8 +148,8 @@ const siteConfig = {
   ],
 
   contact: {
-    email: 'your.email@example.com',
-    linkedin: 'https://www.linkedin.com/in/your-linkedin/',
+    email: 'srinidhisusarla2104@gmail.com',
+    linkedin: 'https://www.linkedin.com/in/srinidhi-susarla-b82187212/',
     github: 'https://github.com/your-username',
     googleScholar: 'https://scholar.google.com/citations?user=YOURID',
     orcid: 'https://orcid.org/0000-0000-0000-0000',
